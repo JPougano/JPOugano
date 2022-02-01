@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**JPougano/JPOugano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+What's up!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently a data analyst who has been passionate about software development.
+
+Here you will find some attempts to create cool stuff while I study Front-end development.
+
+I've been trying to absorb as much knowledge as I can and, if you want to help with suggestions and guesses, feel free it so!!
+
+I'm an aspiring programmer who uses all his more than 4 years of back and forth in programming, but has decided to take it seriously a few months back!
+
+You will still hear from me!
