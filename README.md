@@ -1,7 +1,5 @@
-### Hi there 👋
+### What's up!! 👋
 
-
-What's up!!
 
 I am currently a data analyst who has been passionate about software development.
 
