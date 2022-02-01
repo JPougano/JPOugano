@@ -1,7 +1,7 @@
 ### What's up!! 👋
 
 
-I am currently a data analyst who has been passionate about software development.
+My name is João Pedro Ougano and I'm currently a data analyst who has been passionate about software development.
 
 Here you will find some attempts to create cool stuff while I study Front-end development.
 
